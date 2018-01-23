@@ -1,5 +1,9 @@
 // Write your solution in this file!
 const driver = {
-  name: 'trever',
-  age: '30'
+  name: 'Sam',
+  address: '11 Broadway'
+}
+
+function updateDriverWithKeyAndValue(driver, key, value) {
+  delete driver[key];
 }
