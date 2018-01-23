@@ -1,9 +1,8 @@
 // Write your solution in this file!
 const driver = {
-  name: 'Sam',
-  address: '11 Broadway'
+  name: 'Sam'
 }
 
-function updateDriverWithKeyAndValue(driver, key, value) {
+function updateDriverWithKeyAndValue(driver, 'address', '11 Broadway') {
   return driver
 }
